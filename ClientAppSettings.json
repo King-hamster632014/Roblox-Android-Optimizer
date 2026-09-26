@@ -1,0 +1,23 @@
+{
+  "DFIntTaskSchedulerTargetFps": 240,
+  "FFlagGameBasicSettingsFramerateCap5": "False",
+  "FFlagDisablePostFx": "True",
+  "FFlagDisableShadows": "True",
+  "FFlagDisableBloom": "True",
+  "FFlagDisableDepthOfField": "True",
+  "FFlagDisableGlobalShadows": "True",
+  "DFIntDebugFRMQualityLevelOverride": 1,
+  "FFlagEnableReducedLatency": "True",
+  "FFlagFastGPULightCulling3": "True",
+  "FFlagLuaAppEnableLowMemoryMode": "True",
+  "DFIntConnectionMTUSize": 1400,
+  "FFlagDebugDisableOptimizedTextures": "True",
+  "DFIntTextureCompositorBakeQuality": 0,
+  "DFFintMaxDynamicTileTextureSize": 64,
+  "DFFintTextureManagerMaxKeepManifests": 0,
+  "FIntRenderResolutionScale": 50,
+  "FFlagGraphicsTextureGpuUploadReduce": "True",
+  "FFlagRenderFixFog": "True",
+  "FFlagPreloadAllShaders": "True",
+  "FIntFRMMaxThreads": 4
+}
