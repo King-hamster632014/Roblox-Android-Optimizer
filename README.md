@@ -21,6 +21,9 @@ This project is meant to help improve Roblox performance on Android devices by a
 
 ## Instructions
 
+1. Enable dev options
+   -Locate the build number and repeatedly click 7 times
+   
 1. Install Shizuku
    - Open the file named Shuziku install.
    - Follow the link and install the Shizuku app on your Android device.
